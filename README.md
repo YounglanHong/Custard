@@ -8,15 +8,25 @@
 ※ 배포 링크 :  http://custard-client.s3-website.ap-northeast-2.amazonaws.com/
 
 ### 2. 주요 기능
-* 구글 소셜 로그인 & 로그아웃
+* 구글 소셜 로그인
 
-* category & deck 추가/수정/삭제
-
+![로그인](./gif/login.gif)
+* category & deck 추가/삭제
+![category](./gif/category.gif)
+![deck](./gif/deck.gif)
 * 텍스트 타입 별 카드 추가
   - 일반 텍스트
+  ![text](./gif/addCard(text)2.gif)
   - 표 형식
+  ![table](./gif/addCard(table).gif)
   - JSON 형식
+  ![json](./gif/addCard(json).gif)
   - 이미지 텍스트 인식
+  ![text-detect](./gif/addCard(text-detect).gif)
+  ![text-detect](./gif/addCard(text-detect)2.gif)
+* 카드 학습 & 점수보기  
+
+![study](./gif/study.gif)
   
 ### 3. 사용 스택
 #### Front-End
