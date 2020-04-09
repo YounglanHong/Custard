@@ -1,0 +1,7 @@
+
+node_modules
+config.json
+jwt.js 
+ignore.js
+package-lock.json
+upload
