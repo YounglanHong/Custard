@@ -8,7 +8,7 @@ import Tooltip from "@material-ui/core/Tooltip";
 //import TreeView from "../src/react-treeview";
 
 import "../styles/AllDeckList.css";
-import OpenIconSpeedDial from "./OpenIconSpeedDial";
+import OpenIconSpeedDial from "./speedDial/OpenIconSpeedDial";
 //import BasicCheckbox from "./BasicCheckbox";
 
 //TODO: edit 함수들 작성해야함
