@@ -16,7 +16,7 @@
 ### 0. 소개
 미드, 단어장, 전공서적, 신문 기사, 어떤 정보든 나만의 교재로 만드는 커스텀 플래시카드 웹 어플리케이션입니다.
 
-※ 배포 링크 :  http://custard-client.s3-website.ap-northeast-2.amazonaws.com/
+※ 배포 링크 :  http://custard.s3-website.ap-northeast-2.amazonaws.com/
 
 ### 1. 설치 및 사용 방법
 
