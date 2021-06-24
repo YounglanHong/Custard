@@ -1,18 +1,20 @@
 ### 개인 프로젝트로 리팩토링 했습니다😀
 
-※ 깃헙 주소: https://github.com/YounglanHong/FinalProject_Deploy
+🔗 GitHub: https://github.com/YounglanHong/FinalProject_Deploy
 
 ***
 
 # 팀명: Andamiro 🙏
-### 팀 소개
-[Front-End]
-* (팀장) 이민경
-* 홍영란
 
-[Back-End]
-* 김정수
-* 박성용
+### 팀 소개
+
+| Member   |     Role      |  GitHub |
+|:----------|:-------------:|:------:|
+|이민경|Front-End|[gooogyeong](https://github.com/gooogyeong)|
+|홍영란|Front-End|[YounglanHong](https://github.com/YounglanHong)|
+|김정수|Back-End|[ilmaticboy](https://github.com/ilmaticboy)|
+|박성용|Back-End|[Woody-Park](https://github.com/Woody-Park)|
+
 
 ***
 # 프로젝트명: Custard 🍮
@@ -44,7 +46,9 @@ npm start
 npm start
 ```
 ### 2. 디렉토리 구조
-* Custard-client
+<details>
+<summary>Custard-client</summary>
+     
 ```
 ├── src/
      └── components/
@@ -95,7 +99,11 @@ npm start
      ├── App.css                          
      └── index                            
 ```
-* Custard-server
+</details>
+
+<details>
+<summary>Custard-server</summary>
+     
 ```
 └── controller/
      └── cards/
@@ -136,6 +144,8 @@ npm start
      |                          
      └── app                          
 ```
+
+</details>
 
 ### 3. 주요 기능 
 * 구글 소셜 로그인 & 프로필 이미지 추가
