@@ -45,6 +45,9 @@ npm start
 // Custard-server
 npm start
 ```
+
+***
+
 ### 2. 디렉토리 구조
 <details>
 <summary>Custard-client</summary>
@@ -147,31 +150,47 @@ npm start
 
 </details>
 
-### 3. 주요 기능 
-* 구글 소셜 로그인 & 프로필 이미지 추가
-<img src="./gif/login.gif"  width="600" height="300">
+***
 
-* category & deck 추가/삭제
+### 3. 주요 기능 
+<details>
+<summary>구글 소셜 로그인 & 프로필 이미지 추가</summary>
+<img src="./gif/login.gif"  width="600" height="300">
+</details>
+
+<details>
+<summary>category & deck 추가/삭제</summary>
 <img src="./gif/category.gif"  width="600" height="300">
 <img src="./gif/deck.gif"  width="600" height="300">
+</details>
 
-* 텍스트 타입 별 카드 추가
-  - 일반 텍스트 
-   <img src="./gif/addCard(text)2.gif"  width="600" height="300">
-  
-  - 표 형식  
-   <img src="./gif/addCard(table).gif"  width="600" height="300">
- 
-  - JSON 형식  
-   <img src="./gif/addCard(json).gif"  width="600" height="300">
- 
-  - 이미지 텍스트 인식  
-   <img src="./gif/addCard(text-detect).gif"  width="600" height="300">
-   <img src="./gif/addCard(text-detect).gif"  width="600" height="300">
-  
-* 카드 학습 & 점수보기  
+**텍스트 타입 별 카드 추가**
+<details>
+<summary>일반 텍스트 형식</summary>
+<img src="./gif/addCard(text)2.gif"  width="600" height="300">
+</details>
 
+<details>
+<summary>표 형식</summary>
+<img src="./gif/addCard(table).gif"  width="600" height="300">
+</details>
+
+<details>
+<summary>JSON 형식</summary>
+<img src="./gif/addCard(json).gif"  width="600" height="300">
+</details>
+
+<details>
+<summary>이미지 텍스트 인식(OCR)</summary>
+<img src="./gif/addCard(text-detect).gif"  width="600" height="300">
+</details>
+
+<details>
+<summary>카드 학습 & 점수보기</summary>
 <img src="./gif/study.gif"  width="600" height="300">
+</details>
+
+***
   
 ### 4. 사용 스택
 #### Front-End
@@ -192,5 +211,16 @@ npm start
 * AWS - RDS
 
 ***
+
+## 5. UI flow
+
+🔗 [UI Flow](https://miro.com/app/board/o9J_kug6NV0=/)
+
+![Custard UI Flow](./UI_Flow.png)
+
+
+## 6. DB Schema
+
+![Custard DB Schema](./DB_Schema.png)
 
 
