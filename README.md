@@ -29,15 +29,15 @@
 (1) 코드 복사
 
 > 본 레파지토리를 https://github.com/YounglanHong/FinalProject_Custard.git 주소를 활용하여 로컬 환경에 clone 합니다. 
-```
+```js
 git clone https://github.com/YounglanHong/FinalProject_Custard.git
 ```
 (2) 패키지 설치
-```
+```js
 npm install
 ```
 (3) 실행
-```
+```js
 // Custard-client 
 cd client
 npm start
