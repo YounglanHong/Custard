@@ -1,6 +1,6 @@
 ### 개인 프로젝트로 리팩토링 했습니다😀
 
-🔗 GitHub: https://github.com/YounglanHong/FinalProject_Deploy
+🔗 GitHub: https://github.com/YounglanHong/Custard-v2.git
 
 ***
 
